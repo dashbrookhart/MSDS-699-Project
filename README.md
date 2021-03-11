@@ -3,7 +3,7 @@ Machine Learning Final Project for MSDS 699: Wine Quality Model
 
 My name is Dashiell Brookhart and I created this project for my Machine Learning Lab class as part of the University of San Francisco's Masters in Data Science program. 
 
-This project is in regard to the research question: can we predict the quality of red/white wine based off its chemical composition? 
+This project is in regard to the research question: can we predict the quality of red/white wine based on its chemical composition? 
 
 This project is important as the market for wine has increased exponentially throughout the past few decades. As demand for fine wine grows, the importance of being able to predict the quality of wine has increased as well. Thus, I thought it would be interesting to see if I could create a machine learning model that could accurately predict whether a wine was of high quality or low quality. For my project, I decided to define low quality wine as wine that had a quality rating below 7, while high quality wine was rated 7 and above. 
 
